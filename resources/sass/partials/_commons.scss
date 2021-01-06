@@ -1,0 +1,14 @@
+body {
+    font-family: $main-font;
+    color: $text-col;
+    background: $back-col;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+    display: flex;
+    // align-items: center;
+    // justify-content: center;
+}
+
